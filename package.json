@@ -1,0 +1,23 @@
+{
+  "name": "frontcms",
+  "version": "1.0.0",
+  "description": "this is frontend cms for weekly etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MangoNiki/FrontCMS.git"
+  },
+  "keywords": [
+    "weekly",
+    "frontend"
+  ],
+  "author": "niki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MangoNiki/FrontCMS/issues"
+  },
+  "homepage": "https://github.com/MangoNiki/FrontCMS#readme"
+}
